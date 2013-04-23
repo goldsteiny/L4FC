@@ -3,4 +3,4 @@ It needs a valid Gurobi installation.
 
 This program was developed during PhD studies as Freie Universitaet Berlin, Germany, and was founded by the Gerhard C. Starck Stiftung, Germany.
 
-The program is licensed under CC-AT-NC-SA-3.0.
+The program is licensed under CC BY-NC-SA 3.0.
